@@ -1,41 +1,54 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title:  Alumni Site - Turing School of Software and Design"
+description: "Alumni site for Turing School of Software and Design"
+url: "https://alumni-site.turing.edu/"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Turing Alumni Site
-email: alumnirelations@turing.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the Turing Alumni site!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: turingschool
-github_username:  turingschool
+baseurl: ''
+permalink: /:title
 
-# Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: [
+  'Gemfile',
+  'Gemfile.lock',
+  'README.md',
+  'LICENSE',
+  'CNAME'
+]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+assets:
+  root_url: '/assets'
+
+images:
+  root_url: '/assets/images'
+
+plugins_dir:
+  - jemoji
+  - jekyll-algolia
+
+algolia:
+  index_name:     'alumni-site'
+  extensions_to_index: 'html,md'
+  nodes_to_index: 'p,li'
+  settings:
+    attributeForDistinct: 'title'
+    distinct: true
+  files_to_exclude:
+    - _includes
+    - _layouts
+    - _plugins
+    - _sass
+    - _site
+    - _templates
+    - assets
+    - public
+    - stylesheets
