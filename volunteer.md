@@ -8,7 +8,7 @@ permalink: /volunteer/
 
 If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
 
-The most up-to-date information about upcoming dates to volunteer can be found on[this doc
+The most up-to-date information about upcoming dates to volunteer can be found on [this doc
 ](https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing).
 * Job shadow
 * What's a Dev
