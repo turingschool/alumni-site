@@ -10,7 +10,8 @@ If you, staff at your company, or someone in your network are interested in payi
 
 The most up-to-date information about upcoming dates to volunteer can be found on [this doc
 ](https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing).
-* Job shadow
+* Job shadow [information
+](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
 * What's a Dev
 * Demo Comp
 * Mock interview
