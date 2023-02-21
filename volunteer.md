@@ -1,22 +1,28 @@
 ---
 layout: page
-title: Volunteer
+title: Giving Back to Turing
 permalink: /volunteer/
 ---
 
-### Alumni Committee:
+## Events
 
-KRB to fill in
-Regional or cohort representative
-Professional Development committee
-Newsletter
+If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
+
+The most up-to-date information about upcoming dates to volunteer can be found on [this doc] (https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing).
+
+* Job shadow
+* What's a Dev
+* Demo Comp
+* Mock interview
+* Guest speaking
+
 
 
 ### Professional Development:
 
 ROBYN to review
 
-If you or someone in your network are interested in sharing your expertise with current Turing students, review the info below to sign up. The most up-to-date information about upcoming dates to volunteer can be found on this doc.
+
 
 Job shadow information and sign-up
 What’s a Dev information and sign-up
