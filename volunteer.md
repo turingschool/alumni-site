@@ -8,7 +8,7 @@ permalink: /volunteer/
 
 If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
 
-The most up-to-date information about upcoming dates to volunteer can be found on [this doc
+Current information about upcoming dates to volunteer can be found on [this doc
 ](https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing). Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
 
 * Job shadow [information](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
@@ -47,7 +47,7 @@ Share this flyer with your hiring manager, supervisor, or anyone in your network
 
 We welcome alumni to give back to the Turing community as mentors for current students! Our mentorship program is integrated into our student community Houses. Depending on when you graduated, you may not be familiar yet with Houses - please read here for more information!
 
-Each House has a group of mentors assigned to it to support students through regular office hours and 1:1s available to anyone in the House as well as by answering questions in the House channel. Here are the specific expectations for mentors:
+Each House has a group of assigned mentors to support students through regular office hours and 1:1s (available to anyone in the House) as well as by answering questions in the House channel. Here are the specific expectations for mentors:
 * Each mentor commits to mentoring for 2 consecutive 6-week innings
 * Each mentor hosts 2 office hours per inning in coordination with fellow House mentors (2 total hours during each 6-week period)
 * Each mentor provides time for at least 6 1:1 mentoring sessions using a calendar sign-up posted for students to use (6 total hours during each 6-week period)
@@ -58,12 +58,15 @@ Within this structure, the goals for mentorship are to support students with:
 * Building a professional network to support them in their technical learning and job search readiness
 * Navigating remote communities
 
-When assigning mentors to Houses, we look for an equitable split of mentors who can support Back End and Front End learning. We also take into consideration demographic and identity-based characteristics of mentors in order to create a diverse and inclusive environment.
+When assigning mentors to Houses, we look for an equitable split of mentors who can support with Back End and Front End learning. We also take into consideration demographic and identity-based characteristics of mentors in order to create a diverse and inclusive environment.
 
-Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communicating and leadership skills to add to your career!
+Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
 ## Recruitment and Admissions
-Check back for opportunities to connect with prospective Turing students. You can continue referring folks by sending them to our [Programs page](https://turing.edu/programs)!
+We have a numner of opportunities for you to connect with prospective Turing students. You can continue 
+* Refer folks by sending them to our [Programs page](https://turing.edu/programs)
+* Help our Marketing Team by sharing your Turing story
+* Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
 ## Donating to Turing
 
