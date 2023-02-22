@@ -65,7 +65,7 @@ Mentors are also provided with ongoing support through collaboration with their 
 ## Recruitment and Admissions
 We have a numner of opportunities for you to connect with prospective Turing students. You can continue 
 * Refer folks by sending them to our [Programs page](https://turing.edu/programs)
-* Help our Marketing Team by sharing your Turing story
+* Help our Marketing Team by [sharing your Turing story](https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform)
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
 ## Donating to Turing
