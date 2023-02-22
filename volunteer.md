@@ -13,22 +13,19 @@ Current information about upcoming dates to volunteer can be found on [this doc
 
 * Mock interview [information](https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing) and [sign-up](https://www.signupgenius.com/go/turingmockinterviews) (30+ min time commitment)
 * Job shadow [information](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
-* What's a Dev [information](https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingwhatsadev) (2.75 hr time commitment)
 * Demo Comp judging [information](https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing) - email the Partnership Manager to sign up. (2 hr time commitment)
-* * Guest speaking [information and sign-up](https://airtable.com/shrEaKJFm8lXWVZzk) (30-60 min time commitment)
-
-
-### 
+* What's a Dev [information](https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingwhatsadev) (2.75 hr time commitment)
+* Guest speaking [information and sign-up](https://airtable.com/shrEaKJFm8lXWVZzk) (30-60 min time commitment)
 
 ## Hiring Turing Grads
 
-Turing's Partnership Manager can be reached via email for all questions related to hiring.
+Turing's Partnership Manager can be reached via email at partnerships@turing.edu for all questions related to hiring.
 
 ### Posting Jobs
 
 There are two ways to share a job at Turing:
 1. Post directly to #job-hunt on Turing's Slack **OR**
-2. [Post your jobs on Terminal](https://terminal.turing.edu/add-job) - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
+2. Take less than 5 minutes to [post your jobs on Terminal](https://terminal.turing.edu/add-job) - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
 a. Create a company profile (you only have to do this once).
 b. Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions.
 c. Share details about the job, including a link to apply on your website or to receive more info.
@@ -69,6 +66,10 @@ We have a number of opportunities for you to connect with prospective Turing stu
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
 ## Donating to Turing
+Many companies want to support nonprofits that their employees are passionate about. Check to see if your organization gives grants or matches donations. Contact your HR or DEI lead to ask about:
+* Corporate sponsorship of scholarships, Launch, or DEI efforts
+* Grant making for nonprofits that increase diversity and inclusion in the tech sector, workforce development, or reducing income inequality
+* Matching cash donations of volunteer hours
 
 ## For more information
 Contact Karen Ravago-Ballaret, Turing's Alumni Engagement Manager: alumni@turing.edu or DM @Karen on Turing's Slack.
