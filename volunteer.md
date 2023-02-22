@@ -11,11 +11,11 @@ If you, staff at your company, or someone in your network are interested in payi
 Current information about upcoming dates to volunteer can be found on [this doc
 ](https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing). Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
 
+* Mock interview [information](https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing) and [sign-up](https://www.signupgenius.com/go/turingmockinterviews) (30+ min time commitment)
 * Job shadow [information](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
 * What's a Dev [information](https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingwhatsadev) (2.75 hr time commitment)
-* Demo Comp judging [information](https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing) - email the [Partnership Manager (partnerships@turing.edu} to sign up. (2 hr time commitment)
-* Mock interview [information](https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing) and [sign-up](https://www.signupgenius.com/go/turingmockinterviews) (30+ min time commitment) 
-* Guest speaking [information and sign-up](https://airtable.com/shrEaKJFm8lXWVZzk) (30-60 min time commitment)
+* Demo Comp judging [information](https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing) - email the Partnership Manager to sign up. (2 hr time commitment)
+* * Guest speaking [information and sign-up](https://airtable.com/shrEaKJFm8lXWVZzk) (30-60 min time commitment)
 
 
 ### 
@@ -63,7 +63,7 @@ When assigning mentors to Houses, we look for an equitable split of mentors who 
 Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
 ## Recruitment and Admissions
-We have a numner of opportunities for you to connect with prospective Turing students. You can continue 
+We have a number of opportunities for you to connect with prospective Turing students.
 * Refer folks by sending them to our [Programs page](https://turing.edu/programs)
 * Help our Marketing Team by [sharing your Turing story](https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform)
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
