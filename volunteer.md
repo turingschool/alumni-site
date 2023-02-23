@@ -59,9 +59,12 @@ When assigning mentors to Houses, we look for an equitable split of mentors who 
 
 Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
+If you're interested in mentoring, please fill out [this form](https://airtable.com/shrRJA87qv0eRovqv) and reach out to our Student Development Specialist at paige@turing.edu if you have any questions!
+
 ## Recruitment and Admissions
 We have a number of opportunities for you to connect with prospective Turing students.
 * Refer folks by sending them to our [Programs page](https://turing.edu/programs)
+* Almost every applicant reports that they read reviews of the program before attending. Please add your experience to [Course Report](https://www.coursereport.com/schools/turing), [SwitchUp](https://www.switchup.org/bootcamps/turing-school-of-software-and-design), [Career Karma](https://careerkarma.com/schools/turing/), and even [Google](https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b).
 * Help our Marketing Team by [sharing your Turing story](https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform)
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
