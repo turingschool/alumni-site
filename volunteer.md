@@ -8,8 +8,7 @@ permalink: /volunteer/
 
 If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
 
-Current information about upcoming dates to volunteer can be found on [this doc
-](https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing). Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
+Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>. Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
 
 * Mock interview [information](https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing) and [sign-up](https://www.signupgenius.com/go/turingmockinterviews) (30+ min time commitment)
 * Job shadow [information](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
