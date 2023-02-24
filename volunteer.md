@@ -4,10 +4,11 @@ title: Giving Back to Turing
 permalink: /volunteer/
 ---
 
+## Partnerships with Turing - Volunteering and Hiring
+
 Are you, staff at your company, or someone in your network interested in paying it forward to Turing students and alumni by volunteering or hiring? Share the info below or make an email introduction! Turing's Partnership Manager can be reached via email at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
 
-## Volunteer Events
-
+### Volunteer Events 
 Help students hone their professional development skills while developing your own. Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>.
 
 * Mock interview <a href="https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing" target="_blank">information</a> and <a href="https://www.signupgenius.com/go/turingmockinterviews" target="_blank">sign-up</a> (30+ min time commitment)
@@ -16,9 +17,9 @@ Help students hone their professional development skills while developing your o
 * What's a Dev <a href="https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingwhatsadev" target="_blank">sign-up</a> (2.75 hr time commitment)
 * Guest speaking <a href="https://airtable.com/shrEaKJFm8lXWVZzk" target="_blank">information and sign-up</a> (30-60 min time commitment)
 
-## Hiring Turing Grads
+### Hiring Turing Grads
 
-### Posting Jobs
+#### Posting Jobs
 
 There are two ways to share a job at Turing:
 1. Post directly to #job-hunt on Turing's Slack **OR**
@@ -32,7 +33,7 @@ Additional ways to connect with entry level devs:
 * <a href="https://terminal.turing.edu/profiles" target="_blank">Browse our new grads</a> (all are looking for jobs). Reach out directly or <a href="mailto:partnerships@turing.edu">contact our Partnership Manager</a> for an intro.
 * <a href="mailto:partnerships@turing.edu">Contact our Partnership Manager</a> to create a curated list of new job seeker candidates based on your needs. 
 
-### Connect Us With Your Company
+#### Connect Us With Your Company
 
 Do you love your job and wish you got to work with more Turing alumni? Is your company hiring devs or do they offer a referral program?
 
