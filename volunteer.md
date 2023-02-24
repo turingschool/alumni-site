@@ -4,11 +4,11 @@ title: Giving Back to Turing
 permalink: /volunteer/
 ---
 
-## Volunteer Events
-<a href="placeholder.com" target="_blank">Opens in new tab</a>
-If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
+Are you, staff at your company, or someone in your network interested in paying it forward to Turing students and alumni by volunteering or hiring? Share the info below or make an email introduction! Turing's Partnership Manager can be reached via email at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
 
-Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>. Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
+## Volunteer Events
+
+Help students hone their professional development skills while developing your own. Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>.
 
 * Mock interview <a href="https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing" target="_blank">information</a> and <a href="https://www.signupgenius.com/go/turingmockinterviews" target="_blank">sign-up</a> (30+ min time commitment)
 * Job shadow <a href="https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingjobshadow" target="_blank">sign-up</a> (2 hr time commitment)
@@ -18,26 +18,25 @@ Current information about upcoming dates to volunteer can be found on <a href="h
 
 ## Hiring Turing Grads
 
-Turing's Partnership Manager can be reached via email at partnerships@turing.edu for all questions related to hiring.
-
 ### Posting Jobs
 
 There are two ways to share a job at Turing:
 1. Post directly to #job-hunt on Turing's Slack **OR**
-2. Take less than 5 minutes to [post your jobs on Terminal](https://terminal.turing.edu/add-job) - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
-a. Create a company profile (you only have to do this once).
-b. Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions.
-c. Share details about the job, including a link to apply on your website or to receive more info.
+2. Take less than 5 minutes to <a href="https://terminal.turing.edu/add-job" target="_blank">post your jobs on Terminal</a> - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
+
+   a. Create a company profile (you only have to do this once).
+   b. Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions.
+   c. Share details about the job, including a link to apply on your website or for applicants to receive more info.
 
 Additional ways to connect with entry level devs:
-* [Browse our new grads](https://terminal.turing.edu/profiles) (all are looking for jobs). Reach out directly or contact our Partnership Manager for an intro.
-* Contact our Partnership Manager to create a curated list of new job seeker candidates based on your needs. 
+* <a href="https://terminal.turing.edu/profiles" target="_blank">Browse our new grads</a> (all are looking for jobs). Reach out directly or <a href="mailto:partnerships@turing.edu">contact our Partnership Manager</a> for an intro.
+* <a href="mailto:partnerships@turing.edu">Contact our Partnership Manager</a> to create a curated list of new job seeker candidates based on your needs. 
 
 ### Connect Us With Your Company
 
 Do you love your job and wish you got to work with more Turing alumni? Is your company hiring devs or do they offer a referral program?
 
-Share this flyer with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can make an email introduction to our Partnership Manager and they can take the conversation from there.
+Share this flyer with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can <a href="mailto:partnerships@turing.edu ">make an email introduction </a> to our Partnership Manager and they can take the conversation from there.
 
 ## Mentoring
 
@@ -58,20 +57,20 @@ When assigning mentors to Houses, we look for an equitable split of mentors who 
 
 Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
-If you're interested in mentoring, please fill out [this form](https://airtable.com/shrRJA87qv0eRovqv) and reach out to our Student Development Specialist at paige@turing.edu if you have any questions!
+If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> if you have any questions!
 
 ## Recruitment and Admissions
 We have a number of opportunities for you to connect with prospective Turing students.
-* Refer folks by sending them to our [Programs page](https://turing.edu/programs)
-* Almost every applicant reports that they read reviews of the program before attending. Please add your experience to [Course Report](https://www.coursereport.com/schools/turing), [SwitchUp](https://www.switchup.org/bootcamps/turing-school-of-software-and-design), [Career Karma](https://careerkarma.com/schools/turing/), and even [Google](https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b).
-* Help our Marketing Team by [sharing your Turing story](https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform)
+* Refer folks by sending them to our <a href="https://turing.edu/programs" target="_blank">Programs page</a>
+* Almost every applicant reports that they read reviews of the program before attending. Please add your experience to <a href="https://www.coursereport.com/schools/turing" target="_blank">Course Report</a>, <a href="https://www.switchup.org/bootcamps/turing-school-of-software-and-design" target="_blank">SwitchUp</a>, <a href="https://careerkarma.com/schools/turing/" target="_blank">Career Karma</a>, and even <a href="https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b" target="_blank">Google</a>.
+* Help our Marketing Team by <a href="https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform" target="_blank">sharing your Turing story</a>
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
 ## Donating to Turing
-Many companies want to support nonprofits that their employees are passionate about. Check to see if your organization gives grants or matches donations. Contact your HR or DEI lead to ask about:
+Many companies want to support nonprofits that their employees are passionate about. If you are interested in <a href="https://turing.edu/donate" target="_blank">donating to Turing</a>, check to see if your organization matches donations or gives grants. Contact your HR or DEI lead to ask about:
 * Corporate sponsorship of scholarships, Launch, or DEI efforts
 * Grant making for nonprofits that increase diversity and inclusion in the tech sector, workforce development, or reducing income inequality
 * Matching cash donations of volunteer hours
 
 ## For more information
-Contact Karen Ravago-Ballaret, Turing's Alumni Engagement Manager: alumni@turing.edu or DM @Karen on Turing's Slack.
+Contact Karen Ravago-Ballaret, Turing's Alumni Engagement Manager: <a href="mailto:alumni@turing.edu">alumni@turing.edu</a> or DM @Karen on Turing's Slack.
