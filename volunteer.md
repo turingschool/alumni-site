@@ -41,8 +41,8 @@ Do you love your job and wish you got to work with more Turing alumni? Is your c
 
 Share <a href="https://drive.google.com/file/d/16vf03yVrEAkVFltd3pV0ndXLztxfD8Rv/view" target="_blank">this flyer</a> with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can <a href="mailto:partnerships@turing.edu ">make an email introduction </a> to our Partnership Manager and they can take the conversation from there.
 
-  </p>
-  </details>
+</p>
+</details>
   
 ## Mentoring
 
