@@ -5,16 +5,16 @@ permalink: /volunteer/
 ---
 
 ## Volunteer Events
-
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
 If you, staff at your company, or someone in your network are interested in paying it forward to current Turing students, we invite you to volunteer. Help students hone their professional development skills while developing your own.
 
 Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>. Share with your colleagues or make an email introduction to our Partnership Manager and they can take it from there.
 
-* Mock interview [information](https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing) and [sign-up](https://www.signupgenius.com/go/turingmockinterviews) (30+ min time commitment)
-* Job shadow [information](https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingjobshadow) (2 hr time commitment)
-* Demo Comp judging [information](https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing) - email the Partnership Manager to sign up. (2 hr time commitment)
-* What's a Dev [information](https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing) and [sign up](https://www.signupgenius.com/go/turingwhatsadev) (2.75 hr time commitment)
-* Guest speaking [information and sign-up](https://airtable.com/shrEaKJFm8lXWVZzk) (30-60 min time commitment)
+* Mock interview <a href="https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing" target="_blank">information</a> and <a href="https://www.signupgenius.com/go/turingmockinterviews" target="_blank">sign-up</a> (30+ min time commitment)
+* Job shadow <a href="https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingjobshadow" target="_blank">sign-up</a> (2 hr time commitment)
+* Demo Comp judging <a href="https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing" target="_blank">information</a> - <a href="mailto:partnerships@turing.edu">email the Partnership Manager</a> to sign up. (2 hr time commitment)
+* What's a Dev <a href="https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingwhatsadev" target="_blank">sign-up</a> (2.75 hr time commitment)
+* Guest speaking <a href="https://airtable.com/shrEaKJFm8lXWVZzk" target="_blank">information and sign-up</a> (30-60 min time commitment)
 
 ## Hiring Turing Grads
 
