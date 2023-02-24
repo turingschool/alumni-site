@@ -67,3 +67,6 @@ Once you've completed your program at Turing, you have access to a number of res
 ### Turing Professionals
 
 Once you’ve found your first job out of Turing, join us in the **#turing-professionals** Slack channel. Resources here will be focused on success in your first job and as you advance in your career.
+
+## For more information
+Contact Karen Ravago-Ballaret, Turing's Alumni Engagement Manager: <a href="mailto:alumni@turing.edu">alumni@turing.edu</a> or DM @Karen on Turing's Slack.
