@@ -6,7 +6,7 @@ permalink: /connect/
 
 ## Events
 
-The most updated information about in-person and virtual events will be posted on the <a href="https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Turing Community Calendar</a>
+The most updated information about in-person and virtual events will be posted on the <a href="https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Turing Community Calendar</a> below
 
 
 ### Community Calendar
@@ -37,7 +37,7 @@ The most updated information about in-person and virtual events will be posted o
 
 Turing students, alumni, and staff are located across the country and globe. If you're interested in organizing a meetup for Turing folks in your area, <a href="mailto:alumni@turing.edu">email Turing's Alumni Engagement Manager</a>.
 
-### Financial seminars
+### Virtual financial seminars
 
 Join us for a free virtual financial planning seminar series with <a href="https://www.northwesternmutual.com/financial/advisor/jessica-veitch/" target="_blank">Jessica Veitch</a>, a Wealth Management Advisor with Apricate Financial Group/Northwestern Mutual. She is also the wife of a Turing alum and highly recommended by many Turing folks! After each seminar, she'll provide a link to schedule a free 30-60 min consultation.
 
