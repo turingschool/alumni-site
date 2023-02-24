@@ -6,7 +6,7 @@ permalink: /connect/
 
 ## Events
 
-**The most updated information about in-person and virtual events can be found on the <a href="https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Turing Community Calendar</a>.**
+**The most updated information about in-person and virtual events will be posted on the <a href="https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Turing Community Calendar</a>.**
 
 
 ### Community Calendar
