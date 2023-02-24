@@ -4,9 +4,11 @@ title: Giving Back to Turing
 permalink: /volunteer/
 ---
 
+There are number of ways for you to pay it forward to the Turing community, no matter how much time you have to commit. You can write a review, volunteer for 1 or 2 events a year, or mentor for a few innings. We wouldn't be able to accomplish all that we do without the support of our volunteers, so if you're looking for a way to get reconnected to Turing, we invite you to find something from our list below!
+
 ## Partnerships with Turing - Volunteering and Hiring
 
-Are you, staff at your company, or someone in your network interested in paying it forward to Turing students and alumni by volunteering or hiring? Share the info below or make an email introduction! Turing's Partnership Manager can be reached via email at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
+Are you, staff at your company, or someone in your network interested getting connected to our community through volunteering or hiring? Share the info below or make an email introduction! Turing's Partnership Manager can be reached via email at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
 
 ### Volunteer Events 
 Help students hone their professional development skills while developing your own. Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>.
@@ -24,10 +26,9 @@ Help students hone their professional development skills while developing your o
 There are two ways to share a job at Turing:
 1. Post directly to #job-hunt on Turing's Slack **OR**
 2. Take less than 5 minutes to <a href="https://terminal.turing.edu/add-job" target="_blank">post your jobs on Terminal</a> - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
-
-   a. Create a company profile (you only have to do this once).
-   b. Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions.
-   c. Share details about the job, including a link to apply on your website or for applicants to receive more info.
+* Create a company profile (you only have to do this once).
+* Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions.
+* Share details about the job, including a link to apply on your website or for applicants to receive more info.
 
 Additional ways to connect with entry level devs:
 * <a href="https://terminal.turing.edu/profiles" target="_blank">Browse our new grads</a> (all are looking for jobs). Reach out directly or <a href="mailto:partnerships@turing.edu">contact our Partnership Manager</a> for an intro.
@@ -37,7 +38,7 @@ Additional ways to connect with entry level devs:
 
 Do you love your job and wish you got to work with more Turing alumni? Is your company hiring devs or do they offer a referral program?
 
-Share this flyer with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can <a href="mailto:partnerships@turing.edu ">make an email introduction </a> to our Partnership Manager and they can take the conversation from there.
+Share <a href="https://drive.google.com/file/d/16vf03yVrEAkVFltd3pV0ndXLztxfD8Rv/view" target="_blank">this flyer</a> with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can <a href="mailto:partnerships@turing.edu ">make an email introduction </a> to our Partnership Manager and they can take the conversation from there.
 
 ## Mentoring
 
@@ -61,7 +62,7 @@ Mentors are also provided with ongoing support through collaboration with their 
 If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> if you have any questions!
 
 ## Recruitment and Admissions
-We have a number of opportunities for you to connect with prospective Turing students.
+Opportunities for you to connect with prospective Turing students:
 * Refer folks by sending them to our <a href="https://turing.edu/programs" target="_blank">Programs page</a>
 * Almost every applicant reports that they read reviews of the program before attending. Please add your experience to <a href="https://www.coursereport.com/schools/turing" target="_blank">Course Report</a>, <a href="https://www.switchup.org/bootcamps/turing-school-of-software-and-design" target="_blank">SwitchUp</a>, <a href="https://careerkarma.com/schools/turing/" target="_blank">Career Karma</a>, and even <a href="https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b" target="_blank">Google</a>.
 * Help our Marketing Team by <a href="https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform" target="_blank">sharing your Turing story</a>
