@@ -48,7 +48,7 @@ Finances 101: First Steps to Financial Well-Being ((identifying your financial p
 * Aug 2
 * Nov 1
 
-**Quarterly Speciality Seminars** (also open to Jessica's broader client audience)
+**Quarterly Specialty Seminars** (also open to Jessica's broader client audience)
 
 * Mar 1 - Smart Strategies for Managing Debt
 * June 7 - 3 Financial Challenges Women Face and How to Overcome Them
@@ -61,7 +61,7 @@ Once you've completed your program at Turing, you have access to a number of res
 
 * **Slack:** stay connected in #all_alumni, #job-hunt, #salaries, broadcast, #announcements
 * **Alumni newsletter:** goes out the 1st Wednesday of odd months (January, March, etc.)
-* **Turing Career Dev site**<a href="https://careerdev.turing.edu/resources/" target="_blank">review previous PD lessons and resources</a> 
+* **Turing Career Dev site:** <a href="https://careerdev.turing.edu/resources/" target="_blank">review previous PD lessons and resources</a> 
 * **Tech challenge workgroup:** check the data-structures-and-algorithms Slack channel for updated information on this group
 
 ### Turing Professionals
