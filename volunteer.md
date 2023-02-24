@@ -6,7 +6,8 @@ permalink: /volunteer/
 
 There are number of ways for you to pay it forward to the Turing community, no matter how much time you have to commit. You can write a review, volunteer for 1 or 2 events a year, or mentor for a few innings. We wouldn't be able to accomplish all that we do without the support of our volunteers, so if you're looking for a way to get reconnected to Turing, we invite you to find something from our list below!
 
-## <details><summary>Partnerships with Turing - Volunteering and Hiring</summary>
+## 
+<details><summary>Partnerships with Turing - Volunteering and Hiring</summary>
 <p>
 
 Are you, staff at your company, or someone in your network interested getting connected to our community through volunteering or hiring? Share the info below or make an email introduction! Turing's Partnership Manager can be reached via email at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
