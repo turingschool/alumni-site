@@ -6,7 +6,7 @@ permalink: /connect/
 
 ## Events
 
-The most updated information about in-person and virtual events can be found on the [Turing Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+**The most updated information about in-person and virtual events can be found on the <a href="https://calendar.google.com/calendar/u/0?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9yb25yOWRrOTJuZHZsaHNrMDNrZjhqZDJyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Turing Community Calendar</a>.**
 
 
 ### Community Calendar
@@ -37,15 +37,32 @@ The most updated information about in-person and virtual events can be found on 
 
 ### Financial seminars
 
+Join us for a free virtual financial planning seminar series with Jessica Veitch, a Wealth Management Advisor with Northwestern Mutual. She is also the wife of a Turing alum and highly recommended by many other Turing folks! After each seminar, she'll provide a link to schedule a free 30-60 min consultation.
+
+Below is the 2023 schedule. All sessions start at 12:00pm Mountain Time. Zoom links are posted on the Community Calendar.
+
+**Quarterly Intro Seminars** (info covered will be the same time each time)
+
+Finances 101: First Steps to Financial Well-Being ((identifying your financial planning "personality" and behavioral economics, actions you can take today, prepare for life after graduation, discuss considerations for your career search)
+* May 3
+* Aug 2
+* Nov 1
+
+**Quarterly Speciality Seminars** (also open to Jessica's broader client audience)
+
+* Mar 1 - Smart Strategies for Managing Debt
+* June 7 - 3 Financial Challenges Women Face and How to Overcome Them
+* Sept 6 - How to Build Financial Security
+* Dec 6 - Investing Basics: Five Steps to Building a Disciplined Investment Strategy
+
 ## Resources
 
 Once you've completed your program at Turing, you have access to a number of resources.
 
 * **Slack:** stay connected in #all_alumni, #job-hunt, #salaries, broadcast, #announcements
 * **Alumni newsletter:** goes out the 1st Wednesday of odd months (January, March, etc.)
-* **Turing Career Dev site**
+* **Turing Career Dev site**<a href="https://careerdev.turing.edu/resources/" target="_blank">review previous PD lessons and resources</a> 
 * **Tech challenge workgroup:** check the data-structures-and-algorithms Slack channel for updated information on this group
-* **Fundamentals project**
 
 ### Turing Professionals
 
