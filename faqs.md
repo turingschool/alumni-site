@@ -4,15 +4,14 @@ title: Frequently Asked Questions
 permalink: /faqs/
 ---
 
-Where do I get a transcript or proof of program completion? - Email verifications@turing.edu
+Where do I get a transcript or proof of program completion?
+* Send an email to <a href="mailto:verifications@turing.edu">verifications@turing.edu</a> 
 
-How do I get alumni access to Terminal? ROBYN
+Where can I get more Turing swag?
+* Stay tuned for the re-launch of the online Turing store!
 
-How do I get more Turing swag? RAMIRO
+What's this about a new third program?
+* Learn more about <a href="https://writing.turing.edu/code-school-vs-college-degree/" target="_blank">Launch</a>, our 9-month program designed for young career starters. Graduates will be enterprise-ready C#/.NET developers.
 
-Where can I find a recording of my cohort’s graduation?
-
-Something about turing.edu email addresses JUSTIN
-
-For more information
-Contact Karen Ravago-Ballaret, Turing’s Alumni Engagement Manager: karen@turing.edu or DM @Karen on the Turing Slack workspace.
+## For other questions
+Contact Karen Ravago-Ballaret, Turing's Alumni Engagement Manager: <a href="mailto:alumni@turing.edu">alumni@turing.edu</a> or DM @Karen on Turing's Slack.
