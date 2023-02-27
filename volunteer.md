@@ -67,8 +67,8 @@ Opportunities for you to connect with prospective Turing students:
 * Help our Marketing Team by <a href="https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform" target="_blank">sharing your Turing story</a>
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
-## Corporate Donations to Turing
-Many companies want to support nonprofits that their employees are passionate about. If you are interested in <a href="https://turing.edu/donate" target="_blank">donating to Turing</a>, check to see if your organization matches donations or gives grants. 
+## Donating to Turing
+If you are interested in <a href="https://turing.edu/donate" target="_blank">donating to Turing</a>, check to see if your organization matches donations or gives grants. Many companies want to support nonprofits that their employees are passionate about.  
 
 Contact your HR or DEI lead and cc <a href="mailto:abbey@turing.edu">Turing's Development Manager</a> to ask about:
 * Corporate sponsorship of <a href="https://turing.edu/financing/scholarships" target="_blank">scholarships</a>, <a href="https://turing.edu/launch/launch" target="_blank">Launch</a>, or <a href="https://writing.turing.edu/turings-demo-comp-is-a-glimpse-at-a-more-diverse-accessible-tech-industry/" target="_blank">DEI efforts</a>
