@@ -38,7 +38,8 @@ Additional ways to connect with entry level devs:
 Do you love your job and wish you got to work with more Turing alumni? Is your company hiring devs or do they offer a referral program?
 
 Share <a href="https://drive.google.com/file/d/16vf03yVrEAkVFltd3pV0ndXLztxfD8Rv/view" target="_blank">this flyer</a> with your hiring manager, supervisor, or anyone in your network who needs to hire a dev and let them know that you’re a Turing School graduate. If you find someone who has questions or needs more information, you can <a href="mailto:partnerships@turing.edu ">make an email introduction </a> to our Partnership Manager and they can take the conversation from there.
-  
+
+<!--
 ## Mentoring
 
 We welcome alumni to give back to the Turing community as mentors for current students! Our mentorship program is integrated into our student community Houses. Depending on when you graduated, you may not be familiar yet with Houses - please read here for more information!
@@ -58,7 +59,8 @@ When assigning mentors to Houses, we look for an equitable split of mentors who 
 
 Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
-If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> or @Paige Hellman Millar on Slackif you have any questions!
+If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> or @Paige Hellman Millar on Slack if you have any questions! -->
+
 
 ## Recruitment and Admissions
 Opportunities for you to connect with prospective Turing students:
