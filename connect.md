@@ -47,16 +47,17 @@ Below is the 2023 schedule. All sessions start at 12:00pm Mountain Time. Zoom li
 **Quarterly Intro Seminars** (info covered will be the same time each time)
 
 Finances 101: First Steps to Financial Well-Being (identifying your financial planning "personality" and behavioral economics, actions you can take today, prepare for life after graduation, discuss considerations for your career search)
+* February 1
 * May 3
-* Aug 2
-* Nov 1
+* August 2
+* November 1
 
 **Quarterly Specialty Seminars** (also open to Jessica's broader client audience)
 
-* Mar 1 - Smart Strategies for Managing Debt
+* March 1 - Smart Strategies for Managing Debt
 * June 7 - 3 Financial Challenges Women Face and How to Overcome Them
-* Sept 6 - How to Build Financial Security
-* Dec 6 - Investing Basics: Five Steps to Building a Disciplined Investment Strategy
+* September 6 - How to Build Financial Security
+* December 6 - Investing Basics: Five Steps to Building a Disciplined Investment Strategy
 
 ## Resources
 
