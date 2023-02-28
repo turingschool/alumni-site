@@ -29,9 +29,10 @@ The most updated information about in-person and virtual events will be posted o
 
 ### Regional networking events in 2023
 * **Austin** (SXSW EDU): March 6
+* **Seattle:** March 10
 * **Chicago:** March 24
-* **Las Vegas:** March 27
-* **San Diego (ASU/GSV):** April 16-19
+* **Las Vegas:** March 27 or 28
+* **San Diego** (ASU/GSV): April 16-19
 * **Denver:** April 27
 * **San Francisco Bay Area:** April 27
 
