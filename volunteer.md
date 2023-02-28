@@ -15,7 +15,7 @@ Help students hone their professional development skills while developing your o
 * Mock interview <a href="https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing" target="_blank">information</a> and <a href="https://www.signupgenius.com/go/turingmockinterviews" target="_blank">sign-up</a> (30+ min time commitment)
 * Job shadow <a href="https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingjobshadow" target="_blank">sign-up</a> (2 hr time commitment)
 * Demo Comp judging <a href="https://docs.google.com/document/d/12H_GqG4bo7fnaGWpvyQGTcoIM4Wu9z7iPJOQ_hcavns/edit?usp=sharing" target="_blank">information</a> - <a href="mailto:partnerships@turing.edu">email the Partnership Manager</a> to sign up. (2 hr time commitment)
-* What's a Dev <a href="https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingwhatsadev" target="_blank">sign-up</a> (2.75 hr time commitment)
+* What's a Dev career panel <a href="https://docs.google.com/document/d/1nDP1aJqCxWIWA7PL2W_WmzuIpuW8hSO_EjVLuYZoqy4/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingwhatsadev" target="_blank">sign-up</a> (2.75 hr time commitment)
 * Guest speaking <a href="https://airtable.com/shrEaKJFm8lXWVZzk" target="_blank">information and sign-up</a> (30-60 min time commitment)
 
 ### Hiring Turing Grads
@@ -24,7 +24,7 @@ Help students hone their professional development skills while developing your o
 
 There are two ways to share a job at Turing:
 1. Post directly to #job-hunt on Turing's Slack **OR**
-2. Take less than 5 minutes to <a href="https://terminal.turing.edu/add-job" target="_blank">post your jobs on Terminal</a> - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and are sent out via email.
+2. Take less than 5 minutes to <a href="https://terminal.turing.edu/add-job" target="_blank">post your jobs on Terminal</a> - the Turing Community's internal job board for junior, mid, and senior level jobs. In addition to the job board listing, jobs are posted on Turing’s Slack and sent out via email.
 * Create a company profile (you only have to do this once)
 * Provide your contact information. Only Turing’s Partnership Manager and staff will have access to this info for follow-up questions
 * Share details about the job, including a link to apply on your website or for applicants to receive more info
@@ -58,12 +58,12 @@ When assigning mentors to Houses, we look for an equitable split of mentors who 
 
 Mentors are also provided with ongoing support through collaboration with their fellow House mentors and training and resources from our mentor committee. Overall, mentoring can be an effective way to level up your own skills and develop new communication and leadership skills to add to your career!
 
-If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> if you have any questions!
+If you're interested in mentoring, please fill out <a href="https://airtable.com/shrRJA87qv0eRovqv" target="_blank">this form</a> and reach out to our Student Development Specialist at <a href="mailto:paige@turing.edu">paige@turing.edu</a> or @Paige Hellman Millar on Slackif you have any questions!
 
 ## Recruitment and Admissions
 Opportunities for you to connect with prospective Turing students:
 * Refer them to our <a href="https://turing.edu/programs" target="_blank">Programs page</a> to learn about Front End, Back End or Launch or to join an upcoming <a href="https://turing.edu/try-coding" target="_blank">Try Coding</a> session  
-* Add your experience to <a href="https://www.coursereport.com/schools/turing" target="_blank">Course Report</a>, <a href="https://www.switchup.org/bootcamps/turing-school-of-software-and-design" target="_blank">SwitchUp</a>, <a href="https://careerkarma.com/schools/turing/" target="_blank">Career Karma</a>, and even <a href="https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b" target="_blank">Google</a> - almost every applicant reports that they read reviews of the program before attending
+* Share a review to <a href="https://www.coursereport.com/schools/turing" target="_blank">Course Report</a>, <a href="https://www.switchup.org/bootcamps/turing-school-of-software-and-design" target="_blank">SwitchUp</a>, <a href="https://careerkarma.com/schools/turing/" target="_blank">Career Karma</a>, and even <a href="https://www.google.com/maps/place/Turing+School+of+Software+%26+Design/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x876c78c4f77d2b15:0x3ff4c7d558d0edd1!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11b5wnd6_b" target="_blank">Google</a> - almost every applicant reports that they read reviews of the program before attending
 * Help our Marketing Team by <a href="https://docs.google.com/forms/d/e/1FAIpQLScoiT6jO4W1xneJLOmWySEj4CH5g8d9wS4Tmsj2KQF_mrp3jA/viewform" target="_blank">sharing your Turing story</a>
 * Join the #prospective_contacts Slack channel to help our Recruitment Coordinators answer questions from prospective students
 
