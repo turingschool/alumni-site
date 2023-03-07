@@ -9,8 +9,8 @@ Pay it forward to the Turing community, no matter how much time you have! You ca
 ## Partnerships with Turing - Volunteering and Hiring
 Are you, staff at your company, or someone in your network interested getting connected to our community through volunteering or hiring? Share the info below or make an email introduction. Turing's Partnership Manager can be reached at <a href="mailto:partnerships@turing.edu ">partnerships@turing.edu </a> for all questions related to volunteering and hiring. 
 
-### Volunteer Events 
-Help students hone their professional development skills while developing your own. Current information about upcoming dates to volunteer can be found on <a href="https://docs.google.com/document/d/1onS8F9uzftFGJbgNWyIeTCmzQW0mkBLZoDxsrVvO51o/edit?usp=sharing" target="_blank">this doc</a>.
+### Volunteer Events
+Help students hone their professional development skills while developing your own. Current information about upcoming dates to volunteer can be found on <a href="https://drive.google.com/file/d/1hsuv5Oh-kALCF3gtkJwBo2ZUMr8xiY0B/view?usp=sharing" target="_blank">this doc</a>.
 
 * Mock interview <a href="https://docs.google.com/document/d/1UCTD7kPFAgHhLhV0M0qdDdwdI6JQuwAbDOWs1QPPJAI/edit?usp=sharing" target="_blank">information</a> and <a href="https://www.signupgenius.com/go/turingmockinterviews" target="_blank">sign-up</a> (30+ min time commitment)
 * Job shadow <a href="https://docs.google.com/document/d/1c9quTBUg_atuLUIru5fSAlBm6sHlWP5QwPN4xAIyEvk/edit?usp=sharing" target="_blank">information</a>  and <a href="https://www.signupgenius.com/go/turingjobshadow" target="_blank">sign-up</a> (2 hr time commitment)
