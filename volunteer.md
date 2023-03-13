@@ -72,7 +72,7 @@ Opportunities for you to connect with prospective Turing students:
 ## Donating to Turing
 If you are interested in <a href="https://turing.edu/donate" target="_blank">donating to Turing</a>, check to see if your organization matches donations or gives grants. Many companies want to support nonprofits that their employees are passionate about.  
 
-Contact your HR or DEI lead and cc <a href="mailto:abbey@turing.edu">Turing's Development Manager</a> to ask about:
+Contact your HR or DEI lead to ask about:
 * Corporate sponsorship of <a href="https://turing.edu/financing/scholarships" target="_blank">scholarships</a>, <a href="https://turing.edu/launch/launch" target="_blank">Launch</a>, or <a href="https://writing.turing.edu/turings-demo-comp-is-a-glimpse-at-a-more-diverse-accessible-tech-industry/" target="_blank">DEI efforts</a>
 * Grant making for nonprofits that increase diversity and inclusion in the tech sector, workforce development, or reducing income inequality
 * Matching cash donations of volunteer hours
