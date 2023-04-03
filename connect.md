@@ -33,9 +33,9 @@ The most updated information about in-person and virtual events will be posted o
 * **Chicago:** March 24
 * **Las Vegas:** March 28
 * **NYC:** April 5
-* **San Diego** (ASU/GSV): April 16-19
+* **San Diego:** April 17
 * **Denver:** April 27
-* **San Francisco Bay Area:** April 27
+* **San Francisco Bay Area:** April 27 (tentative)
 * **Dallas:** April 28
 
 Turing students, alumni, and staff are located across the country and globe. If you're interested in organizing a meetup for Turing folks in your area, <a href="mailto:alumni@turing.edu">email Turing's Alumni Engagement Manager</a>.
