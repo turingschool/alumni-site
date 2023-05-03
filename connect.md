@@ -35,7 +35,6 @@ The most updated information about in-person and virtual events will be posted o
 * **NYC:** April 5
 * **San Diego:** April 17
 * **Denver:** April 27
-* **San Francisco Bay Area:** April 27 (tentative)
 * **Dallas:** April 28
 
 Turing students, alumni, and staff are located across the country and globe. If you're interested in organizing a meetup for Turing folks in your area, <a href="mailto:alumni@turing.edu">email Turing's Alumni Engagement Manager</a>.
@@ -50,23 +49,23 @@ Below is the 2023 schedule. All sessions start at 12:00pm Mountain Time. Zoom li
 
 Finances 101: First Steps to Financial Well-Being (identifying your financial planning "personality" and behavioral economics, actions you can take today, prepare for life after graduation, discuss considerations for your career search)
 * February 1
-* May 3
-* August 2
-* November 1
+* May 4
+* August 3
+* November 2
 
 **Quarterly Specialty Seminars** (also open to Jessica's broader client audience)
 
 * March 1 - Smart Strategies for Managing Debt
-* June 7 - 3 Financial Challenges Women Face and How to Overcome Them
-* September 6 - How to Build Financial Security
-* December 6 - Investing Basics: Five Steps to Building a Disciplined Investment Strategy
+* June 8 - 3 Financial Challenges Women Face and How to Overcome Them
+* September 7 - How to Build Financial Security
+* December 7 - Investing Basics: Five Steps to Building a Disciplined Investment Strategy
 
 ## Resources
 
 Once you've completed your program at Turing, you have access to a number of resources.
 
 * **Slack:** stay connected in #all_alumni, #job-hunt, #salaries, broadcast, #announcements
-* **Alumni newsletter:** goes out the 1st Wednesday of odd months (January, March, etc.)
+* **Alumni newsletter:** generally goes out the 1st Wednesday of odd months (January, March, etc.)
 * **Turing Career Dev site:** <a href="https://careerdev.turing.edu/resources/" target="_blank">review previous PD lessons and resources</a> 
 * **Tech challenge workgroup:** check the #data-structures-and-algorithms Slack channel for updated information on this group
 
