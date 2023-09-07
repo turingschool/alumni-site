@@ -7,7 +7,7 @@ permalink: /faqs/
 **Where do I get a transcript or proof of program completion?**
 * Send an email to <a href="mailto:verifications@turing.edu">verifications@turing.edu</a> 
 
-**Where can I get more Turing swag?**
+**Where can I get more Turing swag??**
 * Stay tuned for the re-launch of the online Turing store!
 
 **What's this about a new third program?**
